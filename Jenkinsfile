@@ -9,11 +9,11 @@ pipeline {
         }
       }
     }
+  }
 
-    post {
-        success {
-            browserStackReportPublisher 'automate'
-        }
+  post {
+    success {
+      browserStackReportPublisher 'automate'
     }
   }
 }
