@@ -1,0 +1,11 @@
+userName: levanberelidze_TkBpwm
+accessKey: V4WcyS9oLU9QSfvxA1Ds
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Edge
+    browserVersion: latest
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
